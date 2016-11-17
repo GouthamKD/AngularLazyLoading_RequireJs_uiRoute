@@ -1,0 +1,35 @@
+{
+  "name": "blue-leaf",
+  "description": "Physics-like animations for pretty particles",
+  "main": [
+
+  ],
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "motion",
+    "physics",
+    "particles"
+  ],
+  "authors": [
+    "Betty Beta <bbeta@example.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
